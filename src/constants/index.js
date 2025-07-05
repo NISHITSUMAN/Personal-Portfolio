@@ -173,7 +173,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/Anonymous',
+        link: 'https://github.com/NISHITSUMAN',
     },
     {
         name: 'LinkedIn',
@@ -188,27 +188,27 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'TetraDunes',
         description: 'Developed a web game that is based on game Sandtrix but with more features, cool looks and themes.',
-        link: 'https://github.com/Anonymous/TETRADUNES',
+        link: 'https://github.com/NISHITSUMAN/TetraDunes',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Jarvis AI',
         description: 'Created a full-stack Voice and Text Based Desktop Assistant with coll Jarvis features and chatGPT integrated, you can also assign small tasks to it',
-        link: 'https://github.com/Anonymous/JarvisAI',
+        link: 'https://github.com/NISHITSUMAN/Jarvis-AI',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Mafia: Terminal Edition',
         description: 'Designed and built a Terminal(console) based story mode game which is based on real live soial game Mafia',
-        link: 'https://github.com/Anonymous/Mafia-TerminalEdition',
+        link: 'https://github.com/NISHITSUMAN/Mafia-Terminal-Edition',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'This Portfolio',
         description: 'Built my Portfolio which you are reading now.',
-        link: 'https://github.com/Anonymous/About-Anonymous',
+        link: 'https://github.com/NISHITSUMAN/Personal-Portfolio',
     }
 ];
