@@ -8,7 +8,7 @@
  * And get the code. And then add the rest of the things.
  * YOU DON'T HAVE TO WRITE EVERYTHING FROM SCRATCH
  */
-
+ /* model credit- https://skfb.ly/6XpAQ */
 import { a } from "@react-spring/three";
 import { useEffect, useRef } from "react";
 import { useGLTF } from "@react-three/drei";
