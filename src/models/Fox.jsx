@@ -7,6 +7,7 @@
  * For this model, visit https://gltf.pmnd.rs/
  * And get the code. And then add the rest of the things.
  * YOU DON'T HAVE TO WRITE EVERYTHING FROM SCRATCH
+ model credit- https://skfb.ly/orXGp
  */
 
 import React, { useRef, useEffect } from "react";
