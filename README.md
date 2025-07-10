@@ -29,5 +29,9 @@ This is the source code of my **Personal Portfolio Website**, designed to showca
 
 ## 🙏 Credits for 3D Models
 
-- Bird- 
+- Bird- https://sketchfab.com/3d-models/phoenix-bird-844ba0cf144a413ea92c779f18912042
+- Island- https://skfb.ly/6XpAQ 
+- Fox- https://skfb.ly/orXGp
+- Plane- https://sketchfab.com/3d-models/stylized-ww1-plane-c4edeb0e410f46e8a4db320879f0a1db
+- Sky- If you are the creator of this model please contact in issues of Github, i wasn't able to find you model again
 
