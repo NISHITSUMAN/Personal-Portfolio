@@ -113,7 +113,7 @@ export const experiences = [
     {
         title: "2 Times Olympiad Winner",
         company_name: "Unified Council & Silver Zone",
-        icon: uc,
+        icon: sz,
         iconBg: "#accbe1",
         date: "March 2021 - April 2023",
         points: [
@@ -152,7 +152,7 @@ export const experiences = [
     {
         title: "HCB Engineer",
         company_name: "Hack Club (Its a NGO)",
-        icon: sz,
+        icon: uc,
         iconBg: "#a2d2ff",
         date: "April 2025 - Present",
         points: [
