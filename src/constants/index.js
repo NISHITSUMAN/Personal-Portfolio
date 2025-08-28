@@ -111,36 +111,23 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Rank 27 in Cyber Olympiad",
-        company_name: "Unified Council",
+        title: "2 Times Olympiad Winner",
+        company_name: "Unified Council & Silver Zone",
         icon: uc,
         iconBg: "#accbe1",
-        date: "March 2021 - April 2022",
+        date: "March 2021 - April 2023",
         points: [
-            "I secured Global Rank 27 and AIR 2 among Lakhs of competitors in world. ",
-            "Received INR.2000 .",
-            "Didn't won much money, but that was enough for me to visit HQ of Google and Meta.",
+            "I secured Global Rank 27 and AIR 2 among Lakhs of competitors in world in UCO and secured Global Rank 2 and AIR 1 among Lakhs of competitors in world in IIO in 2 different A.Y.. ",
+            "Received Total of INR.7000 .",
+            "Didn't won much money, but that was enough for me to visit HQ of Google, Meta and Microsoft.",
             "Syllabus was something around Web Devlopment and Cyber Security.",
-        ],
-    },
-    {
-        title: "Rank 2 in Computer Olympiad",
-        company_name: "Silver Zone",
-        icon: sz,
-        iconBg: "#fbc3bc",
-        date: "Jan 2022 - Feb 2023",
-        points: [
-            "I secured Global Rank 2 and AIR 1 among Lakhs of competitors in world.",
-            "Received INR. 10000 .",
-            "Didn't won much money, but that was enough for me to visit HQ of Google(Again) and Microsoft.",
-            "Syllabus was something around Python, AI & ML.",
         ],
     },
     {
         title: "Web Development Head",
         company_name: "Procbse",
         icon: pc,
-        iconBg: "#b7e4c7",
+        iconBg: "#fbc3bc",
         date: "Jan 2023 - Jan 2024",
         points: [
             "Created and Developed First Website of the Company",
@@ -153,13 +140,26 @@ export const experiences = [
         title: "Cheif Developer(App and Website)",
         company_name: "Soundbound",
         icon: sb,
-        iconBg: "#a2d2ff",
+        iconBg: "#b7e4c7",
         date: "Jan 2023 - Present",
         points: [
             "Created and maked a App with my Friend Shabinder Singh",
             "Mainly Worked on Frontend of App and Backend of Webite",
             "Also HR Manager for Soundbound",
             "Recent Update of ADs and Premium in it was my Plan 🥲.",
+        ],
+    },
+    {
+        title: "HCB Engineer",
+        company_name: "Hack Club (Its a NGO)",
+        icon: sz,
+        iconBg: "#a2d2ff",
+        date: "April 2025 - Present",
+        points: [
+            "Maintaining web applications using React.js and other related technologies.",
+            "Lead Architect in the Android App of HCB",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Work in Collaboration with YSWS Combinator and Opertaions Staff.",
         ],
     },
 ];
